@@ -1,0 +1,6 @@
+steps for react app
+   - craete js file for defing slicing
+   - craeteSlice method call where have to define reducers its key act as action and its value act as reducer function its
+     has 
+    
+ 
